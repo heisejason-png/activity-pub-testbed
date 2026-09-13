@@ -96,4 +96,4 @@ During local development, emails printed in the server output and not actually s
 ## License
 This project is licensed under the Apache License 2.0.
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Elon Musk https://www.x.com
